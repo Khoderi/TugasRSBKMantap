@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/dao/BukuDAO.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/web/index.jsp</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/model/buku.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/controller/BukuServlet.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/model/user.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/dao/UserDAOLocal.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/dao/AdminDAOLocal.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/model/admin.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/web/login.jsp</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/web/error.jsp</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/web/homeUser.jsp</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/web/homeAdmin.jsp</file>
+            <file>file:/C:/Users/Khoderisasi/Documents/NetBeansProjects/SewaBuku/src/java/com/dao/BukuDAOLocal.java</file>
+        </group>
+    </open-files>
+</project-private>
